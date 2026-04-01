@@ -42,7 +42,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: harivansh-afk
           template: classic
-          base: activity, community
+          base: activity
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
   iso_calender:
