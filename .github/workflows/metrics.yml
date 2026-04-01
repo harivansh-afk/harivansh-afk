@@ -55,7 +55,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: harivansh-afk
           template: classic
-          base: ""
+          base: "metadata"
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
