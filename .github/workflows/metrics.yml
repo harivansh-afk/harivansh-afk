@@ -60,21 +60,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-  issue_pr_lang:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: issue_pr_lang.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: harivansh-afk
-          template: classic
-          base: ""
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          plugin_followup: no
-          plugin_languages: yes
-
   repositories:
     runs-on: ubuntu-latest
     steps:
