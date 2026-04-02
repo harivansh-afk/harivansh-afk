@@ -1,5 +1,5 @@
 <a href="https://github.com/harivansh-afk">
-  <img align="center" width="100%" src="./header.svg" />
+  <img align="center" width="50%" src="./header.svg" />
 </a>
 <!-- <br/> -->
 <!-- <a href="https://github.com/harivansh-afk">
