@@ -1,10 +1,5 @@
-<a href="https://github.com/harivansh-afk">
-  <img align="center" width="50%" src="./header.svg" />
-</a>
-<!-- <br/> -->
-<!-- <a href="https://github.com/harivansh-afk">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-<a href="https://github.com/harivansh-afk">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a> -->
+> [!IMPORTANT]
+> Due to GitHub's unreliability, active development is hosted on
+> [git.harivan.sh](https://git.harivan.sh/harivansh-afk)
+> 
+> GitHub is maintained as a read-only mirror.
